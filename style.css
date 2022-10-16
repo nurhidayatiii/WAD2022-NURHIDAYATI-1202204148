@@ -1,0 +1,30 @@
+
+
+.img{
+    width: 10%;
+    height: auto;
+    margin-left: 20px;
+}
+
+.nav-item a{
+    /* font-size: 30px; */
+    margin-left: 10px;
+    font-weight: 500;
+}
+.div-video h3{
+    font-weight: bold; 
+    text-align: center; 
+    margin: 50px 0 20px 0;
+}
+.div-video p{
+    text-align: center;
+}
+
+.video {
+    width: 500px;
+    height: 280px;
+    margin-top: 30px;
+}
+.tentangkami{
+    margin-top: 70px;
+}
