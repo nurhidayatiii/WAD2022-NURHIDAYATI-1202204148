@@ -28,3 +28,18 @@
 .tentangkami{
     margin-top: 70px;
 }
+.maps{
+    padding-top: 70px;
+}
+.divmaps{
+    padding-top: 30px;
+    position: relative;
+    text-align: center;
+}
+.mobil{
+    padding-top: 30px;
+    /* background-color: aqua; */
+}
+.form{
+    padding-top: 70px;
+}
