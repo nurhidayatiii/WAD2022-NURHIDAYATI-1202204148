@@ -1,0 +1,27 @@
+
+
+.nav-item a{
+    color: white;
+}
+
+h4{
+    text-align: center;
+}
+
+h6{
+    text-align: center;
+    
+}
+.card ul li{
+    text-align: center;
+    color: blue;
+    font-weight: 600;
+}
+.card a{
+    text-align: center;
+}
+.card img{
+    width: 250px;
+    height: 180px;
+
+}
