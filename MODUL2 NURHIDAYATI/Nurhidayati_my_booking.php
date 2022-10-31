@@ -15,12 +15,12 @@
 
 <?php
 
-    $name = $_POST['name'];
+    $name = $_POST['Nama'];
     $date = $_POST['bookdate']." ".$_POST['time'];
     $checkin = date("d-m-y H:i", strtotime($date));
     $checkout = date("d-m-y H:i", (strtotime($date) + 60 * 60 * $_POST['duration']));
     $cartype = $_POST['cartype'];
-    $phone = $_POST['phone'];
+    $phone = $_P0ST['phone'];
 
     // $service = ['Health protocol', 'driver', 'fuel']
 
@@ -67,7 +67,7 @@
             <tr>
             <th scope="row"><?= rand() ?></th>
             <td><?= $name ?></td>
-            <td><?= $checkin ?></td>
+            <td><?= $checkins ?></td>
             <td><?= $checkout ?></td>
             <td><?= $cartype ?></td>
             <td><?= $phone ?></td>
